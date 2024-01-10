@@ -1,0 +1,15 @@
+C:\battleship_assignment\UI\bin\Debug\UI.exe.config
+C:\battleship_assignment\UI\bin\Debug\UI.exe
+C:\battleship_assignment\UI\bin\Debug\UI.pdb
+C:\battleship_assignment\UI\bin\Debug\PresentationLogicLibrary.dll
+C:\battleship_assignment\UI\bin\Debug\PresentationLogicLibrary.pdb
+C:\battleship_assignment\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\battleship_assignment\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\battleship_assignment\UI\obj\Debug\UI.csproj.CopyComplete
+C:\battleship_assignment\UI\obj\Debug\UI.exe
+C:\battleship_assignment\UI\obj\Debug\UI.pdb
+C:\battleship_assignment\UI\bin\Debug\BusinessLogicLibrary.dll
+C:\battleship_assignment\UI\bin\Debug\DataAccessLibrary.dll
+C:\battleship_assignment\UI\bin\Debug\BusinessLogicLibrary.pdb
+C:\battleship_assignment\UI\bin\Debug\DataAccessLibrary.pdb
+C:\battleship_assignment\UI\bin\Debug\DataAccessLibrary.dll.config

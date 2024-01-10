@@ -1,0 +1,12 @@
+C:\battleship_assignment\PresentationLogicLibrary\bin\Debug\PresentationLogicLibrary.dll
+C:\battleship_assignment\PresentationLogicLibrary\bin\Debug\PresentationLogicLibrary.pdb
+C:\battleship_assignment\PresentationLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+C:\battleship_assignment\PresentationLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+C:\battleship_assignment\PresentationLogicLibrary\obj\Debug\PresentationLogicLibrary.csproj.AssemblyReference.cache
+C:\battleship_assignment\PresentationLogicLibrary\obj\Debug\PresentationLogicLibrary.csproj.CoreCompileInputs.cache
+C:\battleship_assignment\PresentationLogicLibrary\obj\Debug\PresentationLogicLibrary.csproj.CopyComplete
+C:\battleship_assignment\PresentationLogicLibrary\obj\Debug\PresentationLogicLibrary.dll
+C:\battleship_assignment\PresentationLogicLibrary\obj\Debug\PresentationLogicLibrary.pdb
+C:\battleship_assignment\PresentationLogicLibrary\bin\Debug\DataAccessLibrary.dll
+C:\battleship_assignment\PresentationLogicLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\battleship_assignment\PresentationLogicLibrary\bin\Debug\DataAccessLibrary.dll.config

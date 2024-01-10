@@ -1,0 +1,7 @@
+C:\battleship_assignment\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\battleship_assignment\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\battleship_assignment\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\battleship_assignment\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\battleship_assignment\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\battleship_assignment\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\battleship_assignment\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
